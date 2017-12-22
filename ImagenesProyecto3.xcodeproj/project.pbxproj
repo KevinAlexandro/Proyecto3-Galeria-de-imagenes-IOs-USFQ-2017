@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		431995321F91C81100DDA61A /* vitral.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 431995311F91C81100DDA61A /* vitral.jpg */; };
 		439B467B1F912AD900E755DA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 439B467A1F912AD900E755DA /* AppDelegate.swift */; };
 		439B467D1F912AD900E755DA /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 439B467C1F912AD900E755DA /* ViewController.swift */; };
 		439B46801F912AD900E755DA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 439B467E1F912AD900E755DA /* Main.storyboard */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		431995311F91C81100DDA61A /* vitral.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = vitral.jpg; sourceTree = "<group>"; };
 		439B46771F912AD900E755DA /* ImagenesProyecto3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ImagenesProyecto3.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		439B467A1F912AD900E755DA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		439B467C1F912AD900E755DA /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -97,6 +99,7 @@
 		439B46791F912AD900E755DA /* ImagenesProyecto3 */ = {
 			isa = PBXGroup;
 			children = (
+				431995311F91C81100DDA61A /* vitral.jpg */,
 				439B467A1F912AD900E755DA /* AppDelegate.swift */,
 				439B467C1F912AD900E755DA /* ViewController.swift */,
 				439B467E1F912AD900E755DA /* Main.storyboard */,
@@ -233,6 +236,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				439B46851F912AD900E755DA /* LaunchScreen.storyboard in Resources */,
+				431995321F91C81100DDA61A /* vitral.jpg in Resources */,
 				439B46821F912AD900E755DA /* Assets.xcassets in Resources */,
 				439B46801F912AD900E755DA /* Main.storyboard in Resources */,
 			);
@@ -507,6 +511,7 @@
 				439B46A11F912AD900E755DA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		439B46A21F912AD900E755DA /* Build configuration list for PBXNativeTarget "ImagenesProyecto3Tests" */ = {
 			isa = XCConfigurationList;
@@ -515,6 +520,7 @@
 				439B46A41F912AD900E755DA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		439B46A51F912AD900E755DA /* Build configuration list for PBXNativeTarget "ImagenesProyecto3UITests" */ = {
 			isa = XCConfigurationList;
@@ -523,6 +529,7 @@
 				439B46A71F912AD900E755DA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
